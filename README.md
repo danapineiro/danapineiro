@@ -5,7 +5,7 @@
 ## Introducción 😘
 ¡Hola, soy Dariana Piñeiro! Es un placer darte la bienvenida a mi perfil. Permíteme compartir un poco sobre mí y lo que me impulsa en la vida. 
 
-Soy una apasionada desarrolladora web que encuentra alegría en el aprendizaje constante y la búsqueda de nuevos desafíos. Mi trayectoria en el mundo de la programación web me ha llevado a explorar y crear soluciones innovadoras en un entorno en constante evolución. Mi pasión por la tecnología y el desarrollo web me impulsa a abrazar cada proyecto con entusiasmo y dedicación. Estoy ansiosa por enfrentar nuevos desafíos y expandir mis habilidades en este emocionante campo. ¡Espero colaborar en proyectos inspiradores y seguir creciendo como desarrolladora web!"
+Soy una apasionada desarrolladora web que encuentra alegría en el aprendizaje constante y la búsqueda de nuevos desafíos. El mundo de la programación web me ha llevado a explorar y crear soluciones innovadoras en un entorno en constante evolución. Mi pasión por la tecnología y el desarrollo web me impulsa a abrazar cada proyecto con entusiasmo y dedicación. Estoy ansiosa por enfrentar nuevos desafíos y expandir mis habilidades en este emocionante campo. ¡Espero colaborar en proyectos inspiradores y seguir creciendo como desarrolladora web!"
 
 ## Experiencia 🧠
 Soy Licenciada en Comunicación Social Audiovisual y Frontend Developer en Laboratoria. A lo largo de mi trayecto, he tenido la oportunidad de contribuir a diversos proyectos como Text Analyzer, Data Lovers, Social Network, y actualmente, Md Links. En estas experiencias, he destacado mis habilidades de trabajo en equipo, adaptabilidad, planificación, iniciativa, autoaprendizaje, profesionalismo, resolución de problemas y comunicación efectiva.
