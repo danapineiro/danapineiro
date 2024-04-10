@@ -24,7 +24,7 @@ Mi principal objetivo es crecer profesionalmente en el campo del Desarrollo Web.
 ## Conexiones 💬
 ¡Me encantaría conocer a personas con intereses similares y colaborar en proyectos apasionantes! Puedes contactarme a través de mi correo electrónico: [danapineiro@icloud.com](mailto:danapineiro@icloud.com), o conectar conmigo en 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/dariana-pineiro-developer) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariana-pineiro-developer/)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@danapineiro) 
 
 Agradezco sinceramente tu interés en conocerme. Si estás interesado en establecer contacto o colaborar en algún proyecto, no dudes en ponerte en contacto conmigo. ¡Espero conocerte pronto!
